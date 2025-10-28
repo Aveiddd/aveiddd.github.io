@@ -2,7 +2,7 @@ body {
   font-family: 'Sixtyfour';
   text-align: center;
   background-color: rgb(156, 165, 107);
-  background-image: url(file:///C:/Users/klb2025_1/Desktop/www/j2.gif);
+  background-image: src = "j2.gif";
 }
 h3{
   color: rgb(0, 0, 0)
@@ -30,4 +30,5 @@ h5{
   position: relative;
   top: 5px;
   left: 95px;
+
 }
