@@ -1,7 +1,6 @@
 body {
   font-family: 'Sixtyfour';
   text-align: center;
-  background-color: rgb(156, 165, 107);
   background-image: url(j2.gif);
 h3{
   color: rgb(0, 0, 0)
@@ -31,5 +30,6 @@ h5{
   left: 95px;
 
 }
+
 
 
